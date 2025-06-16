@@ -1,3 +1,6 @@
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+![Python](https://img.shields.io/badge/Python-3.8+-green.svg)
+![Status](https://img.shields.io/badge/Project-Active-brightgreen.svg)
 # Network-Anomaly-Detector
 # 🧠 How It Works
 1. Captures packets using Scapy’s `sniff()` function
