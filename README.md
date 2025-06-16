@@ -19,6 +19,11 @@ Anomalies typically represent either extremely large or small packets, which can
 
 
 
+##Installation Guide
+To run this project, first clone the repository using git clone https://github.com/YOUR_USERNAME/network-anomaly-detector.git and then navigate into the folder using cd network-anomaly-detector. After that, install the required Python libraries by running pip install scapy colorama. You don’t need to install statistics because it’s already included in Python by default. Once everything is installed, start the program using sudo python Anomaly_Detection.py. This will begin sniffing live packets on your network and will flag any anomalies based on packet size using Z-score calculations. The required dependencies are scapy and colorama
+
+
+
 ## 🔐 Disclaimer
 
 This tool is intended for educational and ethical use only. Do not use it on networks without explicit authorization.
